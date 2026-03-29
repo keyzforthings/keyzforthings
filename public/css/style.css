@@ -235,10 +235,7 @@ b {
     display: none;
 }
 
-/*
-  ===== Neighbor's Section CSS =====
-  My Neighbors, Personal websites of other users that I like!
-*/
+/* ===== Neighbor's Section CSS ===== */
 
 .neighbours-container {
     display: flex;
@@ -246,7 +243,7 @@ b {
 }
 .neighbours {
     width: 170px;
-    height: 249px;
+    height: 150px;
     overflow: auto;
     border: 1px;
     padding: 3px;
@@ -265,7 +262,7 @@ b {
 }
 .web {
     width: 170px;
-    height: 70px;
+    height: 200px;
     overflow: auto;
     border: 1px;
     padding: 3px;

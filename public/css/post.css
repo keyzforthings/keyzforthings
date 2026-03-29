@@ -6,7 +6,7 @@
 
 /* Basics */
 body {
-    cursor: url("https://file.garden/aA2l8ug81GreC0q0/miku/pixel/BlinkingCursor.gif"), auto;
+    cursor: url("../assets/2xzjv.gif"), auto;
     font-family: "Times New Roman", Times, serif;
     background: #f2f8f9 url(https://file.garden/aA2l8ug81GreC0q0/assets/08700d6c.png) fixed;
     color: #918d84;
@@ -33,7 +33,7 @@ a:active {
     color: #94afff;
     text-decoration: none;
     font-weight: bold;
-    cursor: url("https://file.garden/aA2l8ug81GreC0q0/miku/pixel/KotatsuCursor.gif"), auto;
+    cursor: url("../assets/r0bln.gif"), auto;
 }
 a:hover {
     color: #a2cfff;
@@ -95,8 +95,7 @@ a:hover {
 .content {
     flex: 1;
     padding: 50px 20px 20px 50px;
-    background: url(https://64.media.tumblr.com/32cca63b354ab47ebcd4a2ee4282bba6/460e539e45f2d3ae-fe/s500x750/b7a52b21065ba570cbd33ea527d631d3cefa576d.pnj)
-        repeat-x;
+    background: url(assets/decor/dollywons@tumblr_b7a52.png) repeat-x;
 }
 
 .site-name {
